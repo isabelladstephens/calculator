@@ -159,7 +159,7 @@ function App() {
     </div>
     
     <div className="footer">
-      <a className="github-link" href="https://github.com/isabelladstephens/creative-proj-5/tree/master">GitHubLink</a>
+      <a className="github-link" href="https://github.com/isabelladstephens/calculator">GitHubLink</a>
     </div>
     </div>
   );
